@@ -1,4 +1,4 @@
-# Homework-2-Data-Structures-Uber-Simulator
+# Uber-Simulator-Data-Structures-Project
 Helped me to structure a project, to improve coding style and implement generic containers data structures
 
 Nedelcu Horia
